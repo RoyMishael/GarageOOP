@@ -1,0 +1,2 @@
+C:\Users\royli\Desktop\B21 Ex03 ErezVadmani 204326730 RoyMishael 208436881\B21 Ex03 ErezVadmani 204326730 RoyMishael 208436881\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\royli\Desktop\B21 Ex03 ErezVadmani 204326730 RoyMishael 208436881\B21 Ex03 ErezVadmani 204326730 RoyMishael 208436881\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
